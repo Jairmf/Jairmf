@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jairmf
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning full-stack technologies
+- 💼 I’m a full-stack engineer
 - 📫 How to reach me: jairmf_23@hotmail.com
 
 <!---
