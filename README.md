@@ -3,9 +3,8 @@
 - 💼 I’m a full-stack engineer
 - 📫 How to reach me: dmasgoferreyra@gmail.com
 
-  Tech skills: Typescript, Java, PHP, Python, C#, C++
-  
-  DBMS: MSSQL, ORACLE, Postgres, Mysql, MongoDB
+- 💻 Tech skills: Typescript, Java, PHP, Python, C#, C++
+- 📦 DBMS: MSSQL, ORACLE, Postgres, Mysql, MongoDB
 
 <!---
 Jairmf/Jairmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
