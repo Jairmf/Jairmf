@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Jairmf
-- 👀 I’m interested in web developer
+- 👀 I'm interested in web development
 - 💼 I’m a full-stack engineer
-- 📫 How to reach me: jairmf_23@hotmail.com
+- 📫 How to reach me: dmasgoferreyra@gmail.com
+
+  Tech skills: Typescript, Java, PHP, Python, C#, C++
+  
+  DBMS: MSSQL, ORACLE, Postgres, Mysql, MongoDB
 
 <!---
 Jairmf/Jairmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
